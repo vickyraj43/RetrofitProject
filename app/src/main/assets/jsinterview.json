@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "type": "js interview head",
+        "name": "js interview",
+        "questionimage": "",
+        "answerimage": "",
+        "data": [
+            {
+                "id": "1001",
+                "type": "Javascript Introduction",
+                "name": "Introduction",
+                "data": [
+                    {
+                        "id": "20001",
+                        "qid": 1,
+                        "question": "What is javascript ?",
+                        "answer": "Javascript is a client side scripting language."
+                    },
+                    {
+                        "id": "20002",
+                        "qid": 2,
+                        "question": "Why javascript ?",
+                        "answer": "Javascript develop a dynamic web application. javascript set a behaviour of html structure."
+                    }
+                ]
+            },
+            {
+                "id": "1002",
+                "type": "Javascript Variables",
+                "name": "Variables",
+                "data": [
+                    {
+                        "id": "30001",
+                        "qid": 3,
+                        "question": "What is Variable ?",
+                        "answer": "IN Javascript variable is a memory location of value."
+                    },
+                    {
+                        "id": "30002",
+                        "qid": 4,
+                        "question": "Types of variables ?",
+                        "answer": "Three types : let , var and const."
+                    }
+                ]
+            }
+        ]
+    }
+]

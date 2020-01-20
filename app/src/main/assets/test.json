@@ -1,0 +1,14 @@
+[
+                    {
+                        "id": "20001",
+                        "qid": 1,
+                        "question": "What is javascript ?",
+                        "answer": "Javascript is a client side scripting language."
+                    },
+                    {
+                        "id": "20002",
+                        "qid": 2,
+                        "question": "Why javascript ?",
+                        "answer": "Javascript develop a dynamic web application. javascript set a behaviour of html structure."
+                    }
+]
